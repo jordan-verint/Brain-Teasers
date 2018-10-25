@@ -1,0 +1,17 @@
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciTests.deps.json
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciTests.runtimeconfig.json
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciTests.runtimeconfig.dev.json
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciTests.dll
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciTests.pdb
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciSequence.dll
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\bin\Debug\netcoreapp2.1\FibonacciSequence.pdb
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.csprojAssemblyReference.cache
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.csproj.CoreCompileInputs.cache
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.AssemblyInfoInputs.cache
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.AssemblyInfo.cs
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.csproj.CopyComplete
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.dll
+C:\Users\tcullen\source\repos\FibonacciSequence\FibonacciTests\obj\Debug\netcoreapp2.1\FibonacciTests.pdb
